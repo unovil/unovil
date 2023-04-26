@@ -1,6 +1,7 @@
-### Hello! I'm Uno Villegas (he/him) 💖
+### Helloooo! I'm Uno Villegas (he/him) 💖
 
-### Good to see you heeere: ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+### Good to see you heeere: 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Funovil&label=visitors&countColor=%2337d67a&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Funovil)
 
 I am a high school student at a local science high school in Metro Manila, Philippines. As an amateur developer, I love solving problems that I never would've thought I'd come across. I aspire to be someone who can help others especially in software and general tech. *\<insert virtual handshake here 🥲🫱🏾‍🫲🏽\>*
 
