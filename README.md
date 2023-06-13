@@ -14,6 +14,12 @@ I am a high school student at a local science high school in Metro Manila, Phili
 * Kotlin and Android
 * C# and .NET
 
+** I'm currently good at: **
+* Python
+* C
+* Java
+* Visual Basic (.NET framework)
+
 **⚡ Some facts about me:**
 * At an all-you-can-eat grill, I ate a kilo of shrimp and had severe allergies the next day.
 * I can speak broken German, on top of my fluent native languages -- English and Filipino. (still going strong at Duolingo!)
