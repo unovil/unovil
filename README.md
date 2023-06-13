@@ -14,7 +14,7 @@ I am a high school student at a local science high school in Metro Manila, Phili
 * Kotlin and Android
 * C# and .NET
 
-** I'm currently good at: **
+**I'm currently good at:**
 * Python
 * C
 * Java
