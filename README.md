@@ -6,24 +6,29 @@
 I am a high school student at a local science high school in Metro Manila, Philippines. As an amateur developer, I love solving problems that I never would've thought I'd come across. I aspire to be someone who can help others especially in software and general tech. *\<insert virtual handshake here 🥲🫱🏾‍🫲🏽\>*
 
 **🔭 I’m currently working on:**
-* Tardy Scan 👨‍🎓👩‍🎓🏫
-  * [Android port](https://github.com/unovil/TardyScan-Android)
-  * [Desktop port](https://github.com/unovil/TardyScan-Desktop)
+* QR-ID 👨‍🎓👩‍🎓🏫
+  * [Android port](https://github.com/unovil/qrid-android)
+  * [Web port](https://github.com/unovil/qrid-web)
   
 **🌱 I’m currently learning:**
-* Kotlin and Android
-* C# and .NET
+* C# (.NET)
 
 **I'm currently good at:**
 * Python
+* Kotlin and Java
 * C
-* Java
-* Visual Basic (.NET framework)
+* Visual Basic (.NET)
+
+**Skilled in the following:**
+* Svelte and SvelteKit
+* Jetpack Compose
+* PostgreSQL-driven DBs (such as Supabase)
 
 **⚡ Some facts about me:**
-* At an all-you-can-eat grill, I ate a kilo of shrimp and had severe allergies the next day.
-* I can speak broken German, on top of my fluent native languages -- English and Filipino. (still going strong at Duolingo!)
-* Whistling and eating marshmallows are 2 things that you will *never* see me do. ever.
+* At an all-you-can-eat grill, I ate a kilo of shrimp and had severe allergies the next day
+* I can speak broken German, on top of my fluent native languages -- English and Filipino
+* I still don't eat marshmallows *disgusting*
+* I knew and read Heated Rivalry before it even became a TV show 👀🏳️‍🌈
 
 ### Stats down here
 
